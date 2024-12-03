@@ -1,0 +1,15 @@
+####################################
+#User input file for SPIHEF
+####################################
+NGFS_Feature_Files_Dir='/ships22/ngfs/volcat_feature_csv_files/GOES_EAST/'
+Mode_Real_Time: T
+Mode_Forecasting:F
+Mode_Retrospective:F
+NGFS_Feature_Files_Real_Time_Dir='/ships22/grain/common/NGFS_RT_SCENE/NGFS_scene/GOES-EAST/CONUS/'
+NGFS_Feature_Files_Retrospective_Dir='/ships22/ngfs/volcat_feature_csv_files/GOES_EAST/'
+NGFS_Feature_File_Forecast_Dir=''
+Start_Date='20240801'
+End_Date='20240810'
+
+
+
